@@ -1,4 +1,5 @@
 <style>
+
 a:link {
   color: white;
 }
@@ -53,7 +54,8 @@ a:active {
 	background:-moz-linear-gradient( center top, #19c298 5%, #25d8de 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#19c298', endColorstr='#25d8de');
 	background-color:#19c298;
-}.xb:active {
+}
+.xb:active {
 	position:relative;
 	top:1px;
 }
@@ -96,7 +98,8 @@ a:active {
 	background:-moz-linear-gradient( center top, #196bc2 5%, #25dede 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#196bc2', endColorstr='#25dede');
 	background-color:#196bc2;
-}.cs:active {
+}
+.cs:active {
 	position:relative;
 	top:1px;
 }
